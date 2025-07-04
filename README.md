@@ -162,5 +162,17 @@ Amazon Basics Wireless
      
       __*Observation*:__
 
-      # __Visuals__
-a
+      # Visuals
+
+
+
+
+
+
+
+      [Amazon Case Study Pivot Tables.xlsx](https://github.com/user-attachments/files/21065663/Amazon.Case.Study.Pivot.Tables.xlsx)
+
+
+      [Amazon Case Study Dashboard.xlsx](https://github.com/user-attachments/files/21065661/Amazon.Case.Study.Dashboard.xlsx)
+
+       [Benita Oghojafor Mahmud - Amazon Case Study.xlsx](https://github.com/user-attachments/files/21065894/Benita.Oghojafor.Mahmud.-.Amazon.Case.Study.xlsx)
