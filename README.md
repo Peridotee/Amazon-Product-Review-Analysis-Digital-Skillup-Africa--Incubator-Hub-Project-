@@ -161,3 +161,6 @@ Amazon Basics Wireless
       __*Application*:__ 
      
       __*Observation*:__
+
+      # __Visuals__
+a
