@@ -163,15 +163,10 @@ Amazon Basics Wireless
       __*Observation*:__
 
       # Visuals
-
-
-
-
-
-
-
+<img width="734" alt="Amazon Pivot Tables" src="https://github.com/user-attachments/assets/e347fa55-21bb-47e9-a448-b47c5dfb5166" />
       [Amazon Case Study Pivot Tables.xlsx](https://github.com/user-attachments/files/21065663/Amazon.Case.Study.Pivot.Tables.xlsx)
 
+<img width="410" alt="Amazon Dashboard" src="https://github.com/user-attachments/assets/9d9e7339-7834-4a74-b567-a2e312326be9" />
 
       [Amazon Case Study Dashboard.xlsx](https://github.com/user-attachments/files/21065661/Amazon.Case.Study.Dashboard.xlsx)
 
