@@ -1,0 +1,2 @@
+# Amazon-Product-Review-Analysis-Digital-Skillup-Africa--Incubator-Hub-Project-
+Developed at DSA Incubator, this project leveraged Ms Excel power query tables, slicers and interactive dashboards to analyze Amazon product reviews, track discounts, and monitor pricing trends. The solution delivers actionable  insights into product performance, category dynamics, customer engagement, and revenue potential.
