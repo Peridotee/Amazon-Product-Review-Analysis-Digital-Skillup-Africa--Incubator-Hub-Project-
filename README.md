@@ -62,7 +62,8 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
  
       __Answer:__
      
-     ![Actual Price vs Discounted](https://github.com/user-attachments/assets/2372fadb-4091-4753-ba91-0a3245ea9516)
+     ![Actual vs Discount Prices](https://github.com/user-attachments/assets/57da443d-186b-47d1-aa6c-1c8c638fda8a)
+
 
      
      __*Tool*:__ Ms Excel Power Query
