@@ -95,14 +95,8 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
       __Answer:__
       ![Rating Distribution](https://github.com/user-attachments/assets/3ae8dad4-0dd5-484a-824f-e3734c66eb1e)
 ![Product Rating](https://github.com/user-attachments/assets/b65d31c5-11e0-4dbe-bf1c-806028686ee8)
-
-  
      
-      __*Tool*:__ Ms Excel Power Query
-     
-      __*Application*:__ 
-     
-      __*Observation*:__
+      __*Observation*:__ *: Most products maintain good ratings (4+), indicating satisfactory quality.  
 - 9. What is the total potential revenue (actual_price × rating_count) by category?
 
        __Answer:__ 
