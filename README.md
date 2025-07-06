@@ -51,41 +51,31 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
      __*Observation*:__ Electronics attract the most customer feedback, indicating higher sales or engagement.  
 - 4. Which products have the highest average ratings?
  
-     __Answer:__ Multifunctional 2 in 
-FIGMENT Handheld Milk Fro
-Campfire Spring Chef
-Zuvexa USB Rechargeable
-Sony Bravia 164 cm
-Oratech Coffee Frother
-Swiffer Instant Electric 
-Instant Pot Air Fryer
-Syncwire LTG to USB Cable
-Amazon Basics Wireless
-
+     __Answer:__ Top 3 ratings are 5,4.8, 4.0, with Syncwire and Amazon topping the list, as shown in a bar chart
      
      __*Tool*:__ Ms Excel Power Query
      
-     __*Application*:__ Low Review as conditional column where rating count is less 1000 is yes
+     __*Application*:__ 
      
-     __*Observation*:__High-rated products often have strong brand trust (e.g., JBL, SanDisk) or niche appeal
+     __*Observation*:__ High-rated products often have strong brand trust 
 - 5. What is the average actual price vs the discounted price by category?
  
       __Answer:__ 
      
      __*Tool*:__ Ms Excel Power Query
      
-     __*Application*:__ 
+     __*Application*:__ I added Disocunt Band as conditional column, values from 0.1%-0.9% is less than or equal to output of 0%-90% in 9 clauses
      
-     __*Observation*:__
+     __*Observation*:__ *: Electronics have higher absolute discounts, while Computers & Accessories have deeper percentage discounts.  
 - 6. Which products have the highest number of reviews?
  
-     __Answer:__ 
+     __Answer:__ Aamazon Basics, Boat Bassheads, Redmi,JBL
      
      __*Tool*:__ Ms Excel Power Query
      
-     __*Application*:__ 
+     __*Application*:__ Low Review as conditional column where rating count is less 1000 to show high review - shown in bar chart
      
-     __*Observation*:__
+     __*Observation*:__ Affordable, high-utility products (earphones, cables) generate the most reviews.
 - 7. How many products have a discount of 50% or more?
 
      __Answer:__ 
