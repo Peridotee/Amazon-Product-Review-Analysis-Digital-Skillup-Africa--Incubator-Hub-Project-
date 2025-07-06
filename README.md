@@ -18,6 +18,7 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
 - __Data Source__: Amazon product pages
 
 
+![Amazon Dashboard](https://github.com/user-attachments/assets/cfd664f0-9266-48c8-9b2b-8ae82e5fd391)
 
 
 ## Analysis Tasks and Solutions:
@@ -146,3 +147,12 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
 - 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
 ![Top 5 Products](https://github.com/user-attachments/assets/eb6e57d3-b3e0-4b30-9c7e-22f69449b5e5)
+
+
+# About Me
+
+## Benita Oghojafor Mahmud - I am new to the IT world, and I am excited to showcase my first project. 
+
+_Email_: mahmudbenita@gmail.com
+
+_Phone_: __07038406172__
