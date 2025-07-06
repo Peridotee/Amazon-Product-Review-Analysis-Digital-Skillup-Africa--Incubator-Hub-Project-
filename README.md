@@ -60,7 +60,10 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
      __*Observation*:__ High-rated products often have strong brand trust 
 - 5. What is the average actual price vs the discounted price by category?
  
-      __Answer:__ 
+      __Answer:__
+     
+     ![Actual Price vs Discounted](https://github.com/user-attachments/assets/2372fadb-4091-4753-ba91-0a3245ea9516)
+
      
      __*Tool*:__ Ms Excel Power Query
      
@@ -78,13 +81,13 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
      __*Observation*:__ Affordable, high-utility products (earphones, cables) generate the most reviews.
 - 7. How many products have a discount of 50% or more?
 
-     __Answer:__ 
+     __Answer:__ 660
      
      __*Tool*:__ Ms Excel Power Query
      
-     __*Application*:__ 
+     __*Application*:__ Added a conditional column where discount percentage is greater than or equal to 0.5 as yes
      
-     __*Observation*:__
+     __*Observation*:__Heavy discounts are common, likely to compete in crowded categories.  
  
 - 8.  What is the distribution of product ratings (e.g., how many products are rated 3.0, 
 4.0, etc.)?
