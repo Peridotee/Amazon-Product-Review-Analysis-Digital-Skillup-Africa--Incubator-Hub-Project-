@@ -19,6 +19,9 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
 
 ## Analysis Tasks and Solutions:
 - 1. What is the average discount percentage by product category?
+    
+  ![Count of Product](https://github.com/user-attachments/assets/c7963a83-00e1-4858-a763-c5d72a63f5d5)
+
  
    
      __Answer:__ 47% as shown in text box on the dashboard
@@ -30,6 +33,9 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
 
 
 - 2. How many products are listed under each category?
+ 
+     ![Count of Product](https://github.com/user-attachments/assets/180e8632-10d7-410e-8431-474a9d53520e)
+
  
       __Answer:__ 1,348 as shown in text box on the dashboard
      
@@ -71,8 +77,6 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
  
      __Answer:__ Aamazon Basics, Boat Bassheads, Redmi,JBL
      
-     __*Tool*:__ Ms Excel Power Query
-     
      __*Application*:__ Low Review as conditional column where rating count is less 1000 to show high review - shown in bar chart
      
      __*Observation*:__ Affordable, high-utility products (earphones, cables) generate the most reviews.
@@ -103,25 +107,22 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
 - 10. What is the number of unique products per price range bucket (e.g., <₹200, 
 ₹200–₹500, >₹500)?
 
-       __Answer:__ 
-     
-       __*Tool*:__ Ms Excel Power Query
-     
-       __*Application*:__ 
+![Unique Products](https://github.com/user-attachments/assets/75c59afc-49ad-4d4f-9675-42ae80e29d63)
+
+
       
-       __*Observation*:__
+       __*Observation*:__ Majority of products are priced above $500, targeting mid-range buyers.  
 - 11. How does the rating relate to the level of discount?
  
-       __Answer:__ 
+     ![Rating-Discount](https://github.com/user-attachments/assets/0d30afcd-9f6e-46da-ae26-b1a8f734e51a)
+
      
-       __*Tool*:__ Ms Excel Power Query
-      
-       __*Application*:__ 
-     
-       __*Observation*:__
+       __*Observation*:__ Products with lower discounts tend to have slightly higher ratings, possibly due to perceived quality.  
 - 12. How many products have fewer than 1,000 reviews?
+      ![Less than 1k Reviews](https://github.com/user-attachments/assets/debccae3-bcf5-4f0f-b2b3-b742e94e9404)
+
  
-       __Answer:__ 
+       __Answer:__ 150 products 
      
        __*Tool*:__ Ms Excel Power Query
      
@@ -130,24 +131,20 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
        __*Observation*:__
 - 13. Which categories have products with the highest discounts?
  
-       __Answer:__ 
-     
-       __*Tool*:__ Ms Excel Power Query
-     
-       __*Application*:__ 
-     
-       __*Observation*:__
-- 14. Identify the top 5 products in terms of rating and number of reviews combined.
- 
-      __Answer:__ 
-     
-      __*Tool*:__ Ms Excel Power Query
-     
-      __*Application*:__ 
-     
-      __*Observation*:__
+       __Answer:__
+      
+      Musical Instruments (60% avg. discount)  
 
-      # Visuals
+      Computers & Accessories (55%). 
+  
+      Electronics (50%).  
+     
+       __*Observation*:__ Non-essential categories (e.g., Musical Instruments) use deeper discounts to attract buyers.
+- 14. Identify the top 5 products in terms of rating and number of reviews combined.
+
+![Top 5 Products](https://github.com/user-attachments/assets/eb6e57d3-b3e0-4b30-9c7e-22f69449b5e5)
+
+    
 <img width="734" alt="Amazon Pivot Tables" src="https://github.com/user-attachments/assets/e347fa55-21bb-47e9-a448-b47c5dfb5166" />
       [Amazon Case Study Pivot Tables.xlsx](https://github.com/user-attachments/files/21065663/Amazon.Case.Study.Pivot.Tables.xlsx)
 
