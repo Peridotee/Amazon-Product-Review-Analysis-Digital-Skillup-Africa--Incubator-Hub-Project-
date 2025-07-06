@@ -92,7 +92,11 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
 - 8.  What is the distribution of product ratings (e.g., how many products are rated 3.0, 
 4.0, etc.)?
 
-      __Answer:__ 
+      __Answer:__
+      ![Rating Distribution](https://github.com/user-attachments/assets/3ae8dad4-0dd5-484a-824f-e3734c66eb1e)
+![Product Rating](https://github.com/user-attachments/assets/b65d31c5-11e0-4dbe-bf1c-806028686ee8)
+
+  
      
       __*Tool*:__ Ms Excel Power Query
      
