@@ -17,6 +17,9 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
 - __Customer Engagement__: User reviews, Titles, and Content
 - __Data Source__: Amazon product pages
 
+
+
+
 ## Analysis Tasks and Solutions:
 - 1. What is the average discount percentage by product category?
     
@@ -143,13 +146,3 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
 - 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
 ![Top 5 Products](https://github.com/user-attachments/assets/eb6e57d3-b3e0-4b30-9c7e-22f69449b5e5)
-
-    
-<img width="734" alt="Amazon Pivot Tables" src="https://github.com/user-attachments/assets/e347fa55-21bb-47e9-a448-b47c5dfb5166" />
-      [Amazon Case Study Pivot Tables.xlsx](https://github.com/user-attachments/files/21065663/Amazon.Case.Study.Pivot.Tables.xlsx)
-
-<img width="410" alt="Amazon Dashboard" src="https://github.com/user-attachments/assets/9d9e7339-7834-4a74-b567-a2e312326be9" />
-
-      [Amazon Case Study Dashboard.xlsx](https://github.com/user-attachments/files/21065661/Amazon.Case.Study.Dashboard.xlsx)
-
-       [Benita Oghojafor Mahmud - Amazon Case Study.xlsx](https://github.com/user-attachments/files/21065894/Benita.Oghojafor.Mahmud.-.Amazon.Case.Study.xlsx)
