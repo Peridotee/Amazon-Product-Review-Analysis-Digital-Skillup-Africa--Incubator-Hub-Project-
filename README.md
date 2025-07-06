@@ -99,13 +99,10 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
       __*Observation*:__ *: Most products maintain good ratings (4+), indicating satisfactory quality.  
 - 9. What is the total potential revenue (actual_price × rating_count) by category?
 
-       __Answer:__ 
-     
-       __*Tool*:__ Ms Excel Power Query
-     
-       __*Application*:__ 
-     
-       __*Observation*:__
+![Potential Revenue](https://github.com/user-attachments/assets/4e971bb9-cadd-4734-8b9c-f65283c4c4e1)
+
+ 
+       __*Observation*:__ Electronics drive the most revenue potential, despite fewer products than Computers & Accessories.  
 - 10. What is the number of unique products per price range bucket (e.g., <₹200, 
 ₹200–₹500, >₹500)?
 
