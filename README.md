@@ -23,8 +23,7 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
    
      __Answer:__ 47% as shown in text box on the dashboard
      
-     __*Tool*:__ Ms Excel Power Query
-     
+   
      __*Application*:__ High Discount as a conditional column where discount percentage is greater than or 0.5
      
      __*Observation*:__ Computers & Accessories and Electronics categories offer the highest average discounts, likely to drive sales volume.  
@@ -33,8 +32,6 @@ __Tools Applied__: Microsoft Excel (Power Query Pivot Tables, Charts, Conditiona
 - 2. How many products are listed under each category?
  
       __Answer:__ 1,348 as shown in text box on the dashboard
-     
-     __*Tool*:__ Ms Excel Power Query
      
      __*Application*:__ Split column by leftmost delimeter, removed duplicates
      
